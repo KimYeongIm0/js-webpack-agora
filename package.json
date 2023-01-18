@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/KimYeongIm0/fe-sprint-my-agora-states-reference/issues"
   },
-  "homepage": "https://github.com/KimYeongIm0/js-webpack-agora.git",
+  "homepage": "https://github.com/KimYeongIm0/js-webpack-agora",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.7.3",
